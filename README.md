@@ -6,7 +6,7 @@ ComputerCraft textures that fit in with Create. Want brass computers with amber
 phosphor screens? Chunky 8-inch floppy disks? Turtles with silly faces? Then
 this pack is for you!
 
-This project is affiliated with neither of these.
+This project is affiliated with neither Create nor ComputerCraft.
 
 ## Screenshots
 
