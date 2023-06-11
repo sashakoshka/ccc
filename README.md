@@ -1,5 +1,5 @@
 # ccc
 
-![Pack icon](pack/pack.png)
+![Pack icon](icon.png)
 
 ComputerCraft textures that fit in with Create.
