@@ -8,6 +8,8 @@ this pack is for you!
 
 This project is affiliated with neither Create nor ComputerCraft.
 
+*Visit the [Modrinth page](https://modrinth.com/resourcepack/ccc)*
+
 ## Screenshots
 
 ![A bunch of retextured things](screenshots/rollcall.png)
