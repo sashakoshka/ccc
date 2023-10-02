@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "computercraft:block/wired_modem_off",
+	"textures": {
+		"0": "computercraft:block/wired_modem_peripheral_on"
+	}
+}
