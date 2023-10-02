@@ -3,8 +3,8 @@
 	"parent": "block/block",
 	"texture_size": [16, 32],
 	"textures": {
-		"0": "computercraft:block/wireless_modem_off",
-		"particle": "computercraft:block/wireless_modem_off"
+		"0": "computercraft:block/wireless_modem_normal_off",
+		"particle": "computercraft:block/wireless_modem_normal_off"
 	},
 	"elements": [
 		{

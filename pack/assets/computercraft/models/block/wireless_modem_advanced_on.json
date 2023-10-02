@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "computercraft:block/wireless_modem_normal_off",
+	"textures": {
+		"0": "computercraft:block/wireless_modem_advanced_on"
+	}
+}
