@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "computercraft:block/computer_advanced",
+	"textures": {
+		"1": "computercraft:block/crt_blink"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "computercraft:block/computer_normal",
+	"textures": {
+		"0": "computercraft:block/computer_advanced",
+		"1": "computercraft:block/crt_off",
+		"particle": "computercraft:block/computer_advanced_side"
+	}
+}
