@@ -1,6 +1,6 @@
 # ccc
 
-<img src="icon.png" width="128" alt="Pack icon">
+<img src="assets/icon.png" width="128" alt="Pack icon">
 
 ComputerCraft textures that fit in with Create. Want brass computers with amber
 phosphor screens? Chunky 8-inch floppy disks? Turtles with silly faces? Then
